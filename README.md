@@ -1,6 +1,4 @@
-# odin-recipes
-
-Odin Recipe Project
+# Odin Recipe Project
 
 Recipe website to demonstrate all the subjects reviewed in the Odin Project lessons.
 
